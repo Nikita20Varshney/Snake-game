@@ -15,7 +15,6 @@ A simple and fun Snake Game built using:
 ✅ Score counter  
 ✅ Game Over detection  
 ✅ Play Again option  
-✅ Pause / Resume button  
 ✅ Modern gaming UI  
 
 ---
